@@ -1,0 +1,16 @@
+# ==========================================
+# FRONTEND-SPECIFIC IGNORES
+# ==========================================
+dist-ssr
+
+# Vite specific
+.vite
+
+# Note: Global .gitignore handles:
+# - IDE files (.vscode, .idea, *.sw?, etc.)
+# - OS files (.DS_Store, etc.)
+# - Environment variables (.env, .env.local, etc.)
+# - Logs (logs, *.log, npm-debug.log*, etc.)
+# - Node modules (node_modules)
+# - Build artifacts (dist, *.local)
+
